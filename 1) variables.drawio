@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="ePsbhWcNOL0Rwppw9GLn" name="Page-1">
+        <mxGraphModel dx="353" dy="347" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="variables" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="336" y="108" width="168" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420" y="192" as="sourcePoint"/>
+                        <mxPoint x="542" y="180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="local: declared inside body of method, can use only within method" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="168" y="194" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="static: the variable belongs to class itself rather than any specific instance" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="542" y="194" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="instance: Inside class but outside body of method" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="194" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;font size=&quot;3&quot; face=&quot;Times New Roman&quot;&gt;Variable: A container which holds the value in the program.&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="216" y="30" width="408" height="36" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="public class A&amp;nbsp;&amp;nbsp;&#10;{&amp;nbsp;&amp;nbsp;&#10;&amp;nbsp; &amp;nbsp; static int m=100;//static variable&amp;nbsp;&amp;nbsp;&#10;&amp;nbsp; &amp;nbsp; void method()&amp;nbsp;&amp;nbsp;&#10;&amp;nbsp; &amp;nbsp; {&amp;nbsp; &amp;nbsp;&amp;nbsp;&#10;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int n=90;//local variable&amp;nbsp; &amp;nbsp;&amp;nbsp;&#10;&amp;nbsp; &amp;nbsp; }&amp;nbsp;&amp;nbsp;&#10;&amp;nbsp; &amp;nbsp; public static void main(String args[])&amp;nbsp;&amp;nbsp;&#10;&amp;nbsp; &amp;nbsp; {&amp;nbsp;&amp;nbsp;&#10;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; int data=50;//instance variable&amp;nbsp; &amp;nbsp;&amp;nbsp;&#10;&amp;nbsp; &amp;nbsp; }&amp;nbsp;&amp;nbsp;&#10;}" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="257" y="312" width="336" height="216" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
