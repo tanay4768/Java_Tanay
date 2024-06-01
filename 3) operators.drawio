@@ -10,6 +10,21 @@
                 <mxCell id="6" value="Credits: GeeksforGeeks" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
                     <mxGeometry x="310" y="490" width="230" height="30" as="geometry"/>
                 </mxCell>
+                <UserObject label="%date{ddd mmm dd yyyy HH:MM:ss}%" placeholders="1" id="28">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+                        <mxGeometry x="510" y="320" width="160" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="%date{ddd mmm dd yyyy HH:MM:ss}%" placeholders="1" id="29">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+                        <mxGeometry x="510" y="190" width="160" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="%date{ddd mmm dd yyyy HH:MM:ss}%" placeholders="1" id="30">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+                        <mxGeometry x="640" y="495" width="160" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
             </root>
         </mxGraphModel>
     </diagram>

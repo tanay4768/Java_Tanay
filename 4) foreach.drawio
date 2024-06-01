@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="_n4V70lg7yB7TvH7WJ8W" name="Page-1">
+        <mxGraphModel dx="391" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="&lt;h1&gt;For each loop java&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot;&gt;syntax: for(data_type var: array_name/collection_name){&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot;&gt;//body of loop&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot;&gt;}&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot;&gt;Ex: String[] arr={abc, def, ghi, jkl, mno}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot;&gt;for(String element: arr){&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot;&gt;System.out.println(element);&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; size=&quot;3&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#c12525;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="130" width="470" height="260" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
